@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-resources-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "E-commerce storefront + admin. React (Vite, JavaScript) frontend; Node/Express backend generated from the pack's structure artifacts.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-router-dom": "^6.26.0",
+    "axios": "^1.7.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  }
+}
